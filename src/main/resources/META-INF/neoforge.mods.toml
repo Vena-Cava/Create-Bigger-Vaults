@@ -1,0 +1,37 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mixins]]
+config="biggervaults.mixins.json"
+
+[[mods]]
+modId="biggervaults"
+version="1.0.0"
+displayName="Create: Bigger Vaults"
+logoFile = "icon.png"
+authors="Vena Cava"
+description='''
+Adds additional capacity tiers for Create's Item Vaults, Fluid Tanks and Steam Engines.
+'''
+
+[[dependencies.biggervaults]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.biggervaults]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.biggervaults]]
+modId="create"
+type="required"
+versionRange="[6.0.10,6.1.0)"
+ordering="AFTER"
+side="BOTH"

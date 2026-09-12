@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "T": {
+      "item": "biggervaults:iron_fluid_tank"
+    }
+  },
+  "pattern": [
+    "EEE",
+    "ETE",
+    "EEE"
+  ],
+  "result": {
+    "count": 1,
+    "id": "biggervaults:emerald_fluid_tank"
+  }
+}

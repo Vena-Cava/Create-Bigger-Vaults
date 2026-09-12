@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "T": {
+      "item": "biggervaults:diamond_fluid_tank"
+    }
+  },
+  "pattern": [
+    "OOO",
+    "OTO",
+    "OOO"
+  ],
+  "result": {
+    "count": 1,
+    "id": "biggervaults:obsidian_fluid_tank"
+  }
+}

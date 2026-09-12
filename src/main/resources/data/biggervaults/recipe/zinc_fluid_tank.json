@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "Z": {
+      "item": "create:zinc_ingot"
+    },
+    "T": {
+      "item": "create:fluid_tank"
+    }
+  },
+  "pattern": [
+    "ZZZ",
+    "ZTZ",
+    "ZZZ"
+  ],
+  "result": {
+    "count": 1,
+    "id": "biggervaults:zinc_fluid_tank"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "B": {
+      "tag": "c:barrels/wooden"
+    },
+    "P": {
+      "tag": "c:plates/gold"
+    }
+  },
+  "pattern": [
+    "P",
+    "A",
+    "B"
+  ],
+  "result": {
+    "count": 1,
+    "id": "biggervaults:wooden_steam_engine"
+  }
+}

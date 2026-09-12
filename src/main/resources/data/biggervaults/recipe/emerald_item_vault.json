@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "V": {
+      "item": "biggervaults:iron_item_vault"
+    }
+  },
+  "pattern": [
+    "EEE",
+    "EVE",
+    "EEE"
+  ],
+  "result": {
+    "count": 1,
+    "id": "biggervaults:emerald_item_vault"
+  }
+}

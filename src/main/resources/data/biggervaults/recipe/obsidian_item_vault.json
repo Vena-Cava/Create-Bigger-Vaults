@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "V": {
+      "item": "biggervaults:diamond_item_vault"
+    }
+  },
+  "pattern": [
+    "OOO",
+    "OVO",
+    "OOO"
+  ],
+  "result": {
+    "count": 1,
+    "id": "biggervaults:obsidian_item_vault"
+  }
+}

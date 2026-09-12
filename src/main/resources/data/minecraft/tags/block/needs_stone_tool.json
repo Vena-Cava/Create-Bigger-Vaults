@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "biggervaults:copper_item_vault",
+    "biggervaults:zinc_fluid_tank",
+    "biggervaults:zinc_steam_engine",
+
+    "biggervaults:iron_item_vault",
+    "biggervaults:iron_fluid_tank",
+    "biggervaults:iron_steam_engine"
+  ]
+}

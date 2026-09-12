@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "biggervaults:wooden_item_vault",
+    "biggervaults:wooden_fluid_tank",
+    "biggervaults:wooden_steam_engine"
+  ]
+}

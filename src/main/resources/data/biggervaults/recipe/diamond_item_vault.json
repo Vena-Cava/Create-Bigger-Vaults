@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "V": {
+      "item": "biggervaults:gold_item_vault"
+    }
+  },
+  "pattern": [
+    "DDD",
+    "DVD",
+    "DDD"
+  ],
+  "result": {
+    "count": 1,
+    "id": "biggervaults:diamond_item_vault"
+  }
+}

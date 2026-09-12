@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "V": {
+      "item": "biggervaults:emerald_item_vault"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "GVG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "biggervaults:gold_item_vault"
+  }
+}

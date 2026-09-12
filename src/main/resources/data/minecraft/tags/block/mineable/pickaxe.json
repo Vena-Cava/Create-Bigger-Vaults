@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "biggervaults:copper_item_vault",
+    "biggervaults:zinc_fluid_tank",
+    "biggervaults:zinc_steam_engine",
+
+
+    "biggervaults:iron_item_vault",
+    "biggervaults:iron_fluid_tank",
+    "biggervaults:iron_steam_engine",
+
+    "biggervaults:emerald_item_vault",
+    "biggervaults:emerald_fluid_tank",
+    "biggervaults:emerald_steam_engine",
+
+    "biggervaults:gold_item_vault",
+    "biggervaults:gold_fluid_tank",
+    "biggervaults:gold_steam_engine",
+
+    "biggervaults:diamond_item_vault",
+    "biggervaults:diamond_fluid_tank",
+    "biggervaults:diamond_steam_engine",
+
+    "biggervaults:obsidian_item_vault",
+    "biggervaults:obsidian_fluid_tank",
+    "biggervaults:obsidian_steam_engine",
+
+    "biggervaults:netherite_item_vault",
+    "biggervaults:netherite_fluid_tank",
+    "biggervaults:netherite_steam_engine"
+  ]
+}

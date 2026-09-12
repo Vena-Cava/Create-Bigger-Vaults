@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "biggervaults:obsidian_item_vault",
+    "biggervaults:obsidian_fluid_tank",
+    "biggervaults:obsidian_steam_engine",
+
+    "biggervaults:netherite_item_vault",
+    "biggervaults:netherite_fluid_tank",
+    "biggervaults:netherite_steam_engine"
+  ]
+}

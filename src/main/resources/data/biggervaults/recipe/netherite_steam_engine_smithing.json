@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "item": "biggervaults:obsidian_steam_engine"
+  },
+  "result": {
+    "count": 1,
+    "id": "biggervaults:netherite_steam_engine"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

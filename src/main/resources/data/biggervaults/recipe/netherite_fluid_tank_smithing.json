@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "item": "biggervaults:obsidian_fluid_tank"
+  },
+  "result": {
+    "count": 1,
+    "id": "biggervaults:netherite_fluid_tank"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

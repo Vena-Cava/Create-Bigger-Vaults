@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "biggervaults:emerald_item_vault",
+    "biggervaults:emerald_fluid_tank",
+    "biggervaults:emerald_steam_engine",
+
+    "biggervaults:gold_item_vault",
+    "biggervaults:gold_fluid_tank",
+    "biggervaults:gold_steam_engine",
+
+    "biggervaults:diamond_item_vault",
+    "biggervaults:diamond_fluid_tank",
+    "biggervaults:diamond_steam_engine"
+  ]
+}

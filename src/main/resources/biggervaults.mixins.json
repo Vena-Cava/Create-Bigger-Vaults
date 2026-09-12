@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.venacava.biggervaults.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BoilerDataMixin",
+    "ItemVaultBlockEntityMixin",
+    "SteamEngineBlockMixin",
+    "SteamEngineBlockEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

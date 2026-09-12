@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "Z": {
+      "item": "create:zinc_ingot"
+    },
+    "S": {
+      "item": "create:steam_engine"
+    }
+  },
+  "pattern": [
+    "ZZZ",
+    "ZSZ",
+    "ZZZ"
+  ],
+  "result": {
+    "count": 1,
+    "id": "biggervaults:zinc_steam_engine"
+  }
+}
