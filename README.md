@@ -1,4 +1,4 @@
-<p align="center"><img src="./.idea/logo.png" alt="Logo" width="500"></p>
+<p align="center"><img src="./logo.png" alt="Logo" width="500"></p>
 
 
 Create: Bigger Vaults expands on the Create mod's storage by adding new tiers of Item Vaults, Fluid Tanks and Steam Engines.
